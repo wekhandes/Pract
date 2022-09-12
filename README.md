@@ -1,8 +1,11 @@
 # Transaction Aggregator
 
-Clone the repo in IDE and run the main function
-This will print the aggregation and will also write the results to the CSV file
-Input CSV file path has been set to D:\code\input\transactions.csv and code will write the output files to D:\code\input folder
+Clone the repo in IDE and run the main function.
+
+This will print the aggregation and will also write the results to the CSV file.
+
+Input CSV file path has been set to D:\code\input\transactions.csv and code will write the output files to D:\code\input folder.
+
 File path and names can be updated in TransactionService class
 
 ### Problem Statement
